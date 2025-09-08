@@ -51,5 +51,5 @@ A Discord bot that monitors a Minecraft server in real-time and updates its stat
 1. **Clone the repository**  
 
 ```bash
-git clone https://github.com/your-username/your-bot-repo.git
-cd your-bot-repo
+git clone [https://github.com/your-username/your-bot-repo.git](https://github.com/Wolfy3870/Discord-bot-for-Minercraft-server-status.git)
+cd Discord-bot-for-Minercraft-server-status
